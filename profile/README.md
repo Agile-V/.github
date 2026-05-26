@@ -54,18 +54,6 @@ The **Agile V™ Framework** transforms unreliable AI agents into **Verifiable E
 
 ---
 
-### [local-llm-proxy](https://github.com/Agile-V/local-llm-proxy) ⭐ 1 star
-**Local LLM Integration** - HTTPS-to-HTTP proxy for using local/network LLM backends (Ollama, LocalAI, LM Studio) with Agile V Studio.
-
-- 🔌 **Local LLM support** for air-gapped environments
-- 🔒 **Privacy-first** (no cloud dependencies)
-- ⚡ **Zero-config** proxy setup
-- 🛠️ **Works with** Ollama, LocalAI, LM Studio, custom endpoints
-
-**[→ Use Local LLMs](https://github.com/Agile-V/local-llm-proxy)**
-
----
-
 ## 🌟 **Why Agile V?**
 
 | Feature | Typical AI Agents | Agile V Framework |
